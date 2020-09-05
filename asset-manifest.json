@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Season-Checker/static/css/main.3967cb32.chunk.css",
+    "main.js": "/Season-Checker/static/js/main.f781591a.chunk.js",
+    "main.js.map": "/Season-Checker/static/js/main.f781591a.chunk.js.map",
+    "runtime-main.js": "/Season-Checker/static/js/runtime-main.292fc200.js",
+    "runtime-main.js.map": "/Season-Checker/static/js/runtime-main.292fc200.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/Season-Checker/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/Season-Checker/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/Season-Checker/index.html",
+    "precache-manifest.7c529403f1fb2ac5bf08de642ac1cdbd.js": "/Season-Checker/precache-manifest.7c529403f1fb2ac5bf08de642ac1cdbd.js",
+    "service-worker.js": "/Season-Checker/service-worker.js",
+    "static/css/main.3967cb32.chunk.css.map": "/Season-Checker/static/css/main.3967cb32.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/Season-Checker/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292fc200.js",
+    "static/js/2.8b77c9df.chunk.js",
+    "static/css/main.3967cb32.chunk.css",
+    "static/js/main.f781591a.chunk.js"
+  ]
+}
